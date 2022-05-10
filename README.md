@@ -9,7 +9,7 @@ In short we can say that quadtree is a tree data sctructere in which every singl
 Graham-Hull is being used in for instance in **collision avoidance** or all kinda of **shape analysis**. On the other hand QuadTree is implemented for example in **image compression**, but also in **satellite maps - Google Maps**.
 
 ## Requirements:
-Project has been done in [PyCharm University Edition] https://www.jetbrains.com/pycharm-edu/.
+Project has been done in PyCharm University Edition (https://www.jetbrains.com/pycharm-edu/).
 - Version of Python: Python 3.10
 - Used libraries:
 ```Python
