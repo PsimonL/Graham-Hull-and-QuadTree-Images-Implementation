@@ -10,7 +10,7 @@ Graham-Hull is being used in for instance in **collision avoidance** or all kind
 
 ## Requirements:
 Project has been done in [PyCharm University Edition] https://www.jetbrains.com/pycharm-edu/.
-- Version of Python: Python 3
+- Version of Python: Python 3.10
 - Used libraries:
 ```Python
 pip install random
